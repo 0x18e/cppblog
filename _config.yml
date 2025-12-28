@@ -1,3 +1,6 @@
 title: programming things
 description: spitballing
-theme: minima
+
+remote_theme: pages-themes/midnight
+plugins:
+  - jekyll-remote-theme
