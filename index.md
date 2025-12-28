@@ -2,9 +2,8 @@
 layout: default
 title: Home
 ---
-
-Hello,
-This is a personal site where I write about my programming projects, physics, math curiosities, videogames, and whatever I'm interested in.
+Hello,<br>
+This is a personal site where I write about programming projects, physics, math curiosities, videogames, and whatever I'm interested in.
 
 ## Recent posts
 {% for post in site.posts limit:5 %}
